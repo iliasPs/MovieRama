@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">MovieRama</string>
+
+    <string name="no_data">No data available</string>
+    <string name="movie_details_title">Movie Details</string>
+    <string name="title"><u>Title: </u></string>
+    <string name="genre"><u>Genre: </u></string>
+    <string name="release"><u>Release Date: </u></string>
+    <string name="average"><u>Average Vote: </u></string>
+    <string name="plot"><u>Plot Synopsis: </u></string>
+
+
+    <string name="author_name">Review Author</string>
+    <string name="review_content">Review Content</string>
+    <string name="reviewLabelExist"><u><b>Click to read the reviews!</b></u></string>
+
+
+    <string name="search_title">Search Results</string>
+
+    <string name="searchHint">Search MovieRama</string>
+    <string name="details_title"><u>Movie Details:</u></string>
+    <string name="trailerHeader">Trailers</string>
+    <string name="similarHeader">Similar Movies</string>
+    <string name="trailersNA">No Trailers Available</string>
+
+    <string name="no_more_movies_snack">No more movies to show</string>
+
+
+    <string name="movie_det_title"><u><b>Description:</b></u></string>
+    <string name="director_title"><u><b>Director:</b></u></string>
+    <string name="cast_title"><u><b>Cast:</b></u></string>
+
+    <string name="similar_toggle_title"><u><b>Click to browse similar movies!</b></u></string>
+    <string name="trailers_toggle_title"><u><b>Click to watch the trailer!</b></u></string>
+    <string name="no_reviews">No reviews yet...</string>
+
+
+</resources>
